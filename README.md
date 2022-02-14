@@ -32,7 +32,7 @@ En el caso de Windows la ejecuacion sera asi
 py reto1.py <DOMINIO> <PUERTO>
 ```
 
-Despues de ejcutado se nos solicitara una URL como se ve adelante.
+Despues de ejcutado se nos solicitara una URL como se ve adelante, por lo tanto aqui la pondremos.
 
 ```bash
 Ingrese url
